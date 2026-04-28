@@ -50,3 +50,35 @@ Example:
     }
   ]
 }
+
+
+
+
+
+
+First Extensions to Build
+AI Summariser
+Reader Mode
+Dark Reader Lite
+Focus Mode
+Page Notes
+Content Blocker
+Translate Page
+
+
+Extension Manager Goals
+
+The extension manager should allow users to:
+
+View installed extensions
+Enable or disable extensions
+See extension permissions
+Configure extension settings
+Reset extension data
+
+
+Limitations
+
+Because Nexa Browser is designed for iOS and iPadOS, extension support will be limited by what WKWebView allows.
+
+The goal is not full desktop extension compatibility. The goal is useful, safe, mobile-friendly extension-style tools.
